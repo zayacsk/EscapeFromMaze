@@ -1,0 +1,4 @@
+repository "EscapeFromMaze@zayac320@cloud"
+  path "/"
+    br "/main"
+    co "/main"
