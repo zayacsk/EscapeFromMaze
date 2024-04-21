@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\littl\\EscapeFromMaze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|C:\\Users\\littl\\EscapeFromMaze\\assets\\save\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|solutionrelative:assets\\save\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|C:\\Users\\littl\\EscapeFromMaze\\assets\\map\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|C:\\Users\\littl\\EscapeFromMaze\\assets\\player\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|c:\\users\\littl\\escapefrommaze\\assets\\save\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|solutionrelative:assets\\save\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|c:\\users\\littl\\escapefrommaze\\assets\\mainmenu\\scripts\\levelsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|C:\\Users\\littl\\EscapeFromMaze\\assets\\mainmenu\\scripts\\levelsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\scripts\\levelsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|C:\\Users\\littl\\EscapeFromMaze\\assets\\mainmenu\\scripts\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\scripts\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|C:\\Users\\littl\\EscapeFromMaze\\assets\\player\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B47EBAEF-78D9-A0D7-ABBE-22DBA1552895}|Assembly-CSharp.csproj|C:\\Users\\littl\\EscapeFromMaze\\assets\\maincamera\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LevelButton.cs",
               "DocumentMoniker": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\MainMenu\\Scripts\\LevelButton.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenu\\Scripts\\LevelButton.cs",
@@ -50,43 +50,44 @@
               "RelativeToolTip": "Assets\\MainMenu\\Scripts\\LevelButton.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T20:10:35.243Z"
+              "WhenOpened": "2024-04-18T20:10:35.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LevelsMenu.cs",
               "DocumentMoniker": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\MainMenu\\Scripts\\LevelsMenu.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenu\\Scripts\\LevelsMenu.cs",
               "ToolTip": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\MainMenu\\Scripts\\LevelsMenu.cs",
               "RelativeToolTip": "Assets\\MainMenu\\Scripts\\LevelsMenu.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAABQwBcAAAAQAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T19:27:36.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SaveManager.cs",
               "DocumentMoniker": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\Save\\Scripts\\SaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\Save\\Scripts\\SaveManager.cs",
               "ToolTip": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\Save\\Scripts\\SaveManager.cs",
               "RelativeToolTip": "Assets\\Save\\Scripts\\SaveManager.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwDUAAAA9AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowDUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T13:20:31.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SceneController.cs",
               "DocumentMoniker": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\Map\\Scripts\\SceneController.cs",
               "RelativeDocumentMoniker": "Assets\\Map\\Scripts\\SceneController.cs",
               "ToolTip": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\Map\\Scripts\\SceneController.cs",
               "RelativeToolTip": "Assets\\Map\\Scripts\\SceneController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAARAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T01:00:17.416Z",
               "EditorCaption": ""
@@ -105,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\littl\\EscapeFromMaze\\Assets\\Player\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Player\\Scripts\\PlayerController.cs",
@@ -113,8 +114,7 @@
               "RelativeToolTip": "Assets\\Player\\Scripts\\PlayerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:04:56.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T18:04:56.46Z"
             },
             {
               "$type": "Document",

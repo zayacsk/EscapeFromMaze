@@ -5,6 +5,13 @@ public class SceneController : MonoBehaviour
 {
     [SerializeField] private GameObject _endCanvas;
 
+    private int _currentScene;
+
+    private void Start()
+    {
+        _currentScene = SceneManager.GetActiveScene().buildIndex;
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Exit"))
@@ -13,12 +20,11 @@ public class SceneController : MonoBehaviour
             {
                 _endCanvas.SetActive(true);
                 gameObject.SetActive(false);
-
-                if (SceneManager.GetActiveScene().buildIndex == SaveManager.instance.playerData.playerLevel)
-                {
-                    SaveManager.instance.playerData.playerLevel++;
-                    SaveManager.instance.SavePlayerData();
-                }
+            }
+            if (_currentScene == SaveManager.instance.playerData.playerLevel)
+            {
+                SaveManager.instance.playerData.playerLevel++;
+                SaveManager.instance.SavePlayerData();
             }
         }
     }

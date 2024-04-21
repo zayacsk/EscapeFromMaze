@@ -11,7 +11,7 @@ public class LevelsMenu : MonoBehaviour
 
     private void Start()
     {
-        SaveManager.instance.SavePlayerData();
+        SaveManager.instance.LoadPlayerData();
         int sceneCount = SceneManager.sceneCountInBuildSettings;
         _levels = new int[sceneCount];
 
