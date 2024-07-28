@@ -1093,7 +1093,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 3rd level finished
+  m_Text: 4th level finished
 --- !u!222 &1699713571
 CanvasRenderer:
   m_ObjectHideFlags: 0
